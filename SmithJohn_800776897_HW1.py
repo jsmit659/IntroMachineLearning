@@ -7,10 +7,9 @@
 # John Smith
 # Student Id: 800776897
 # ECGR 4105 - Intro to Machine Learning
-# Homework 0
-# GitHub address wouldn't print on one line. Seperate lines used:
+# Homework 1
 
-# 
+# github.com/jsmit659/IntroMachineLearning/blob/main/SmithJohn_800776897_HW1.py
 
 
 # In[2]:
