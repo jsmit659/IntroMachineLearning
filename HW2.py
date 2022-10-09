@@ -5,9 +5,9 @@
 
 
 # HW 2
-#
-#
-#
+# https://github.com/jsmit659/IntroMachineLearning/blob/main/HW2.py
+# John Smith
+# 800776897
 #
 
 
