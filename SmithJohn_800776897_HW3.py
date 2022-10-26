@@ -6,7 +6,7 @@
 
 # John Smith
 # 800776897
-# 
+# https://github.com/jsmit659/IntroMachineLearning/blob/main/SmithJohn_800776897_HW3.py
 
 
 # In[2]:
