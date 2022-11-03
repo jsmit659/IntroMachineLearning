@@ -4,8 +4,8 @@
 # In[ ]:
 
 
-# HW 2
-# https://github.com/jsmit659/IntroMachineLearning/blob/main/.py
+# HW 4
+# https://github.com/jsmit659/IntroMachineLearning/blob/main/SmithJohn_800776897_HW4.py
 # John Smith
 # 800776897
 #
